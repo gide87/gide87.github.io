@@ -1,6 +1,8 @@
 ## Modelica Learn Area.
 
-
+if (isAwesome){
+  return true
+}
 
 
 ### Contact
