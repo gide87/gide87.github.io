@@ -2,7 +2,7 @@
 
 
 <h4>表头：</h4>
-<table border="1">
+<table border="0">
 <tr>
   <th>姓名</th>
   <th>电话</th>
@@ -16,7 +16,7 @@
 </table>
 
 <h4>垂直的表头：</h4>
-<table border="1">
+<table border="0">
 <tr>
   <th>姓名</th>
   <td>Bill Gates</td>
