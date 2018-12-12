@@ -10,10 +10,7 @@
   <th>结论</th>
 </tr>
 <tr>
-  <td>Part 1: 胶粘剂认证</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td colspan="3">Part 1: 胶粘剂认证</td>
 </tr>
 <tr>
   <td>胶粘剂类型</td>
