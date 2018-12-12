@@ -23,22 +23,8 @@
 </tr>
 </table>
 
-<h4>垂直的表头：</h4>
-<table border="0">
-<tr>
-  <th>姓名</th>
-  <td>Bill Gates</td>
-</tr>
-<tr>
-  <th>电话</th>
-  <td>555 77 854</td>
-</tr>
-<tr>
-  <th>电话</th>
-  <td>555 77 855</td>
-</tr>
-</table>
 
-### 联系
+
+### 联系方式
 
 Vansn
