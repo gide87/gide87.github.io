@@ -349,7 +349,7 @@ Secondary Fixed Navigation
 .cd-secondary-nav li:last-child a {
   border-bottom: none;
 }
-@media only screen and (min-width: 560px) {
+@media only screen and (min-width: 60px) {
   .cd-secondary-nav {
     z-index: 1;
     height: 100px;
@@ -582,3 +582,9 @@ Placeholder Sections
     font-size: 1.25rem;
   }
 }
+
+/* --------------------------------
+
+Table style
+
+-------------------------------- */
