@@ -2,7 +2,7 @@
 =========
 <!-- 胶黏剂认证-->
 
-  <table  width="500" frame="box">
+  <table frame="box">
     <tr>
       <th align="left">认证项目</th>
       <th align="middle">认证结果</th>
@@ -52,7 +52,7 @@
   </table>
 
   <p>
-    <img src="img/storage.jpg"  alt="hi" class="inline" width="128" height="128"/>
+    <img src="img/storage.jpg"/>
     黏剂存储罐
   </p>
 <!-- 基材认证-->
