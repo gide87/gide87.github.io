@@ -248,8 +248,8 @@
 </table>
 
 <p>
-  <img src="1.jpg" />
-  <img src="2.jpg" />
+  <img src="img/1.jpg" />
+  <img src="img/2.jpg" />
 </p>
 
 <!-- 加工认证-->
@@ -380,5 +380,5 @@
 </table>
 
 <p>
-  <img src="3.jpg" />
+  <img src="img/3.jpg" />
 </p>
