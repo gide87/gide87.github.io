@@ -247,6 +247,11 @@
 
 </table>
 
+<p>
+  <img src="1.jpg" />
+  <img src="2.jpg" />
+</p>
+
 <!-- 加工认证-->
 <p>
 5.加工认证
@@ -375,6 +380,6 @@
 </table>
 
 <p>
-  <img src="https://github.com/gide87/gide87.github.io/blob/master/img/%E7%B2%98%E5%89%82%E5%AD%98%E5%82%A8%E7%BD%90.jpg" width="128" height="128"/>
+  <img src="3.jpg" />
 
 </p>
