@@ -2,7 +2,7 @@
 =========
 <!-- 胶黏剂认证-->
 
-  <table frame="box">
+  <table>
     <tr>
       <th align="left">认证项目</th>
       <th align="middle">认证结果</th>
@@ -56,7 +56,7 @@
     黏剂存储罐
   </p>
 <!-- 基材认证-->
-  <table  width="500" frame="box">
+  <table>
     <tr>
       <th align="left">认证项目</th>
       <th align="middle">认证结果</th>
@@ -124,7 +124,7 @@
     </tr>
   </table>
 <!-- 表材认证-->
-<table  width="500" frame="box">
+<table>
   <tr>
     <th align="left">认证项目</th>
     <th align="middle">认证结果</th>
@@ -170,7 +170,7 @@
 </table>
 
 <!-- 饰面认证-->
-<table  width="500" frame="box">
+<table>
   <tr>
     <th align="left">认证项目</th>
     <th align="middle">认证结果</th>
@@ -217,7 +217,7 @@
 <!-- 加工认证-->
 <p>加工现场的认证目的是保证生产过程中使用的胶黏剂为无醛胶黏剂，生产中使用的材料为万晟指定的无醛产品。
 </p>
-<table  width="500" frame="box">
+<table>
   <tr>
     <th align="left">认证项目</th>
     <th align="middle">认证结果</th>
@@ -260,7 +260,7 @@
 <!-- 成品检测-->
 <p>最终成品的检测，由专业的国家监管部门认可的检测机构的测试，产品测试结果符合无醛添加标准。
 </p>
-<table  width="500" frame="box">
+<table>
   <tr>
     <th align="left">认证项目</th>
     <th align="middle">认证结果</th>
@@ -307,7 +307,7 @@
 <!-- 组装装配-->
 <p>万晟制定了严格的现场巡检制度，保证进入到现场的产品均为万晟认证过的无醛产品，从而保证产品最终的无醛添加。
 </p>
-<table  width="500" frame="box">
+<table>
   <tr>
     <th align="left">认证项目</th>
     <th align="middle">认证结果</th>
